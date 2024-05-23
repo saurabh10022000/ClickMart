@@ -1,5 +1,6 @@
 # ClickMart
 ClickMart is an extensive E-commerce platform crafted with the MERN stack (MongoDB, Express.js, React, Node.js). This project showcases a robust and efficient online shopping experience, featuring optimized performance, secure transactions, and enhanced user satisfaction.
+<img width="1462" alt="Screenshot 2024-05-23 at 2 55 13 PM" src="https://github.com/saurabh10022000/ClickMart/assets/42618226/e86f7f2d-63d3-4830-84f1-e25a1e60f59b">
 
 # Features
 Optimized Performance: Spearheaded the optimization of Mongoose queries, achieving a 40% decrease in loading time for a smoother user experience.
